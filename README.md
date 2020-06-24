@@ -1,4 +1,4 @@
-# PersonalityPredictor
+# Personality Type and Traits Predictor
 ## A Jupyter notebook which uses your personal preferences and lifestyle choices such as movies, music, hobbies, etc. to predict your personality type. 
 
 To run the notebook please make sure you have the following installed: 
